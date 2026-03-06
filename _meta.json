@@ -1,0 +1,9 @@
+{
+  "name": "github-push",
+  "version": "2.0.0",
+  "author": "OpenClaw",
+  "license": "MIT",
+  "description": "Secure GitHub push automation with auto SSH and remote config",
+  "requires": [],
+  "keywords": ["github", "push", "automation", "security"]
+}
